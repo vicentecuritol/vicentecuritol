@@ -35,8 +35,11 @@ Me enfoco en el desarrollo **Backend, automatización y arquitectura de software
 ### 📈 Estadísticas de GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vicentecuritol&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicentecuritol&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="155"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vicentecuritol&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" height="150"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vicentecuritol&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="150"/>
+</p>
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=vicentecuritol&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" height="150"/>
 </p>
 
 ---
