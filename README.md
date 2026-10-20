@@ -1,5 +1,6 @@
 <div align="center">
 
+  <!-- Header animado con typing effect -->
   <a href="https://github.com/vicentecuritol">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF3366&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Vicente+Curitol+%F0%9F%91%8B;Fullstack+Developer+%7C+Backend+Focus;Python+%7C+Java+Spring+Boot+%7C+Kotlin;React+%7C+JavaScript+%7C+PL%2FSQL;Building+CLI+Tools+%26+Local+AI+%2F+RAG" alt="Typing SVG" />
   </a>
@@ -7,7 +8,7 @@
   <p align="center">
     🎓 <b>Estudiante de Ingeniería en Informática</b> | <b>Desarrollo Fullstack & Arquitectura de Software</b>
     <br />
-    Enfocado en sistemas robustos de backend, interfaces dinámicas con React y lógica de base de datos relacional avanzada.
+    Enfocado en sistemas robustos de backend, interfaces dinámicas con React y persistencia relacional avanzada.
   </p>
 
   <p align="center">
@@ -22,16 +23,23 @@
     </a>
   </p>
 
+  <!-- Skill icons de alta definición -->
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=kotlin,java,spring,python,react,js,html,css,postgres,mysql,linux,git&theme=dark" alt="Skills" />
+    </a>
+  </p>
+
 </div>
 
 ---
 
 ### ⚡ Sobre mí
 
-- 🔭 **Enfoque Actual:** Desarrollo **Fullstack** integrando SPAs en **React** con APIs en **Spring Boot** y **Python**.
+- 🔭 **Enfoque Actual:** Desarrollo **Fullstack** integrando SPAs en **React** con APIs en **Spring Boot**, **Kotlin** y **Python**.
 - 🗄️ **Datos & Lógica:** Manejo de bases de datos relacionales, consultas complejas y programación de procedimientos con **PL/SQL**.
 - 🧠 **Área de interés:** Inteligencia Artificial local, modelos de lenguaje (LLMs) y arquitecturas **RAG** en memoria.
-- 🛠️ **Filosofía:** Código limpio, tipado estricto, interfaces reactivas y herramientas de terminal (CLI) orientadas a la DX.
+- 🛠️ **Filosofía:** Código limpio, arquitecturas desacopladas y desarrollo de herramientas de terminal (CLI) orientadas a la DX.
 
 ---
 
@@ -39,10 +47,10 @@
 
 #### ⚙️ Backend & Lenguajes
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </p>
 
 #### 🎨 Frontend
@@ -117,7 +125,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vicentecuritol&show_icons=true&theme=radical&hide_border=true&border_radius=8&count_private=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vicentecuritol&langs_count=8&theme=radical&hide_border=true&border_radius=8" alt="Lenguajes más usados" width="48%" />
+  <!-- Ocultamos batchfile y dockerfile para limpiar la métrica -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vicentecuritol&layout=compact&hide=batchfile,dockerfile&theme=radical&hide_border=true&border_radius=8" alt="Lenguajes más usados" width="48%" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
@@ -129,4 +138,3 @@
 <div align="center">
   <sub>Construido con foco en código limpio y eficiencia de software. ¡Conectemos! 🤝</sub>
 </div>
-```
